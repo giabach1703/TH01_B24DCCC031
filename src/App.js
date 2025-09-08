@@ -122,9 +122,9 @@ function StudentCard({ name, age, className }) {
 
 function StudentList() {
   const students = [
-    { name: "Nguyễn Văn A", age: 20, className: "CNTT1" },
-    { name: "Trần Thị B", age: 21, className: "CNTT2" },
-    { name: "Lê Văn C", age: 22, className: "CNTT3" },
+    { name: "Sinh viên A", age: 20, className: "CNTT1" },
+    { name: "Sinh viên B", age: 21, className: "CNTT2" },
+    { name: "Sinh viên C", age: 22, className: "CNTT3" },
   ];
 
   return (
